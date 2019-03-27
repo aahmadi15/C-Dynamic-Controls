@@ -1,0 +1,11 @@
+C:\Users\Saboor\source\repos\PRO670ASS2\PRO670ASS2\bin\Debug\PRO670ASS2.exe.config
+C:\Users\Saboor\source\repos\PRO670ASS2\PRO670ASS2\bin\Debug\PRO670ASS2.exe
+C:\Users\Saboor\source\repos\PRO670ASS2\PRO670ASS2\bin\Debug\PRO670ASS2.pdb
+C:\Users\Saboor\source\repos\PRO670ASS2\PRO670ASS2\obj\Debug\PRO670ASS2.csprojAssemblyReference.cache
+C:\Users\Saboor\source\repos\PRO670ASS2\PRO670ASS2\obj\Debug\PRO670ASS2.frmFirst.resources
+C:\Users\Saboor\source\repos\PRO670ASS2\PRO670ASS2\obj\Debug\PRO670ASS2.frmBuilded.resources
+C:\Users\Saboor\source\repos\PRO670ASS2\PRO670ASS2\obj\Debug\PRO670ASS2.Properties.Resources.resources
+C:\Users\Saboor\source\repos\PRO670ASS2\PRO670ASS2\obj\Debug\PRO670ASS2.csproj.GenerateResource.cache
+C:\Users\Saboor\source\repos\PRO670ASS2\PRO670ASS2\obj\Debug\PRO670ASS2.csproj.CoreCompileInputs.cache
+C:\Users\Saboor\source\repos\PRO670ASS2\PRO670ASS2\obj\Debug\PRO670ASS2.exe
+C:\Users\Saboor\source\repos\PRO670ASS2\PRO670ASS2\obj\Debug\PRO670ASS2.pdb
